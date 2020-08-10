@@ -10,3 +10,7 @@ h1 {
 .text-red {
   color: #a11d1d;
 }
+
+li {
+  color: green;
+}
